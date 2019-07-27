@@ -1,0 +1,6 @@
+TO WORK	TO AIRPORTS	CLEANLINESS	SIZE	AMENITY	LOCATION	ADDITIONAL SPACE	LEASE PERIOD	SHAREHOUSE
+Short walk to work	Short taxi (15 min)	Dank	Small studio	No amenity	Hip funky	None	Short (1-3 months)	No
+Long walk to work / short bike	Med taxi (25 min)	Pia’s	Large studio	One	Boring	Fire escape	Mid (5-8 months)	Yes
+Long bike to work / short subway	Long taxi (35+)	Veronica	1br	Two	Dodgy	Balcony	1 year+	
+Mid subway ride		Southbank	2br	Three	Noisy	Yard / roof		
+Mid bus or long subway				Four plus	Quiet parklike			
